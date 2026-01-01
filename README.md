@@ -53,7 +53,7 @@ bun run bench --quick
 
 # Test specific model tiers
 bun run bench free      # Free models only (Llama, Mistral, etc.)
-bun run bench paid      # Paid models only (Claude, GPT-4, Gemini, etc.)
+bun run bench paid      # Paid models only (Claude, GPT, Gemini, etc.)
 bun run bench all       # All available models
 
 # Combine options
