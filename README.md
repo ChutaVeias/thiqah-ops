@@ -10,8 +10,8 @@
 
 ## 🎯 Key Features
 
-- **31 Real-World Scenarios** covering the full sysadmin lifecycle: Setup → Security → Networking → Service Management → Monitoring → Troubleshooting
-- **11 Categories**: Setup, Security, Networking, Service Management, File Operations, Monitoring, Backup, Package Management, System Config, Troubleshooting, Text Processing
+- **Real-World Scenarios** covering the full sysadmin lifecycle: Setup → Security → Networking → Service Management → Monitoring → Troubleshooting
+- **Categories**: Setup, Security, Networking, Service Management, File Operations, Monitoring, Backup, Package Management, System Config, Troubleshooting, Text Processing, and more
 - **Docker-Based Sandboxing**: Isolated, ephemeral containers for safe command execution
 - **State-Based Validation**: Verifies actual server state changes, not just command fluency
 - **Comprehensive Scoring**: Weighted validations with critical security checks
